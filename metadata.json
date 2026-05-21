@@ -1,0 +1,6 @@
+{
+  "name": "Northside Smoke",
+  "description": "Premium on-demand 3rd-party smoke and vape logistics network featuring age verification, interactive shop menus, live simulated delivery tracking, and an expert curated buyers guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
